@@ -4,24 +4,24 @@ Fitness Tracker Model developed during HackUTA2023
 
 # Overview
 
-This fitness tracker app is a simple tool for tracking your foot counts and progress. It allows you to detect body position, track your weekly progress, and view detailed summaries of health records.
+This fitness tracker app is a simple tool for tracking your foot counts and progress. It allows you to detect body position(walkling, sitting, running), track your progress, and view detailed summaries of health records.
 
 # Features
 
-Detect workouts
-Track your progress
-View detailed summaries of health records
+-Detect workouts
+-Track your progress
+-View detailed summaries of health records
 
-To install the fitness tracker app, clone this repository and follow the instructions in the Installation section.
+To install the fitness tracker app, clone this repository and follow the instructions.
 
 # Usage
 
-The app will keep track of your total duration, calories burned, and other important metrics. You can also view a weekly summary of your progress to see how you're doing over time.
+The app will keep track of your total counts, calories burned, and other important metrics. 
 
 
 # Credits
 
-This fitness tracker app was developed by Rabib, Ummaima, Prakhyat and Mahir  during HackUTA2023.
+This fitness tracker app was developed by Rabib, Ummaima, Prakhyat and Maheer  during HackUTA2023.
 
 License
 
